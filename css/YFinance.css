@@ -33,3 +33,7 @@ a {
   font-size: 18px;
   
 }  
+td {
+    text-align: center;
+    font-weight: 700;
+}
